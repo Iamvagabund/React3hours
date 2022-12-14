@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Iamvagabund.github.io/React3hours/static/css/main.b5411ec1.css",
+    "main.js": "/Iamvagabund.github.io/React3hours/static/js/main.44518a82.js",
+    "index.html": "/Iamvagabund.github.io/React3hours/index.html",
+    "main.b5411ec1.css.map": "/Iamvagabund.github.io/React3hours/static/css/main.b5411ec1.css.map",
+    "main.44518a82.js.map": "/Iamvagabund.github.io/React3hours/static/js/main.44518a82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5411ec1.css",
+    "static/js/main.44518a82.js"
+  ]
+}
